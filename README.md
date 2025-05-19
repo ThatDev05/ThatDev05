@@ -1,4 +1,4 @@
-,# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on School Management System<br> 🤝 I’m looking to collaborate on 3D landing page<br>🌱 I’m currently learning Backend<br>💬 Ask me about Errors being apparent of Frontend<br>🫴 I’m looking for help with NEXT.js
 
 ## 🌐 Socials:
