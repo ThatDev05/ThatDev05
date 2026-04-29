@@ -1,6 +1,6 @@
 💫 About Me:
 
-🔭 I’m currently working on VlogPick & Blogyyy.<br>🌱 I’m currently learning SQL<br>💬 Ask me about Errors being apparent of Frontend<br>🫴 I’m looking for help with devopps
+🔭 I’m currently working on my portfolio.<br>🌱 I’m currently learning SQL<br>💬 Ask me about Errors being apparent of Frontend<br>🫴 I’m looking for help with devopps
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord/thatdev05) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/DeepBhattacharjee05 ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepbhattacharjee05 ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deep-bhattacharjee-3729202ab) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ThatDev05 ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepb9945@gmail.com) 
